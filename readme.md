@@ -5,3 +5,4 @@ aaaaagitweffsafewf
 update b1
 update b1 again
 updata b1 again2
+conflict b1
